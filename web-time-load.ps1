@@ -3,6 +3,7 @@
 #######                          versión 1.0                            #######
 #######                           13.09.2018                            #######
 #######                  email:info@madridinformatico.es                #######
+#######         Mide el tiempo de carga de un sitio web                 #######
 ###############################################################################
 
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
